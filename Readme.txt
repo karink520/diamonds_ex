@@ -1,4 +1,4 @@
-Here's an example ReadMe
+Here's an EXAMPLE README
 
 Here's another line!!
 
